@@ -17,6 +17,6 @@ python -m ipykernel install --user --name=.venv
 # 5. Open the notebook and select the .venv kernel
 jupyter notebook Main.ipynb
 
-**# 6. For context read this:**
+# 6. For context, read this:
 Run only Main.ipynb
 The .py files are uploaded as proof to how the data was collected, however it is not necessary to run them for the pipeline to work. 
